@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="feed-container">
+    {% for post in site.posts %}
+        <a href="{{post.url}}">
+            <div class="feed-post">
+                <h3> {{post.title}}</h3>
+                <div class="espacio_20"></div>
+                <p>{{ post.excerpt }}</p>
+                <div class="espacio_10"></div>
+                <p>{{ post.date | date: "%d %b %Y" }}</p>
+            </div>
+        </a>
+    {% endfor %}        
+
+</div>

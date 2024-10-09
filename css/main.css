@@ -1,0 +1,114 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2em;
+}
+
+h3 {
+    font-weight: 300;
+    font-size: 1.4em;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* HEADER STYLES */
+
+.header {
+    display: flex;
+    padding: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.logo {
+    flex-grow: 0;
+    cursor: pointer;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.logo a {
+    all: inherit;
+}
+
+.nav-links {
+    flex-grow: 1;
+    text-align: end;
+}
+
+.nav-links li {
+    display: inline-block;
+}
+
+.nav-links a {
+    text-decoration: none;
+}
+
+.nav-links a:visited {
+    color: inherit;
+}   
+
+
+/* ESPACIADORES */
+
+.espacio_20 {
+    height: 20px;
+}
+
+.espacio_10 {
+    height: 10px;
+}
+
+/* BLOG FEED STYLES */
+
+.feed-container {
+    box-sizing: border-box;
+    max-width: 860px;
+    margin: 30px;
+}
+
+.feed-post {
+    margin: 20px 0;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.feed-post h3 a {
+    all: inherit;
+}
+
+.feed-post p:last-child {
+    font-weight: 200;
+}
+
+.feed-post:hover {
+    background-color: whitesmoke;
+}
+
+/* BLOG STYLES */
+
+.blog-container {
+    max-width: 860px;
+    margin: 25px;
+}
