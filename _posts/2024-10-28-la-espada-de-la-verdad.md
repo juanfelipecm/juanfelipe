@@ -59,7 +59,7 @@ Valeria y yo quedamos mudos. Con esa sonrisa que se queda a mitad de camino y qu
 <br>
 Como nunca llega, ella misma continua. — La gente dice que yo soy muy directa, pero es que siempre digo la verdad. — <br>
 <br>
-No recuerdo que respondió Andrea, sé que fue muy diplomática ni quizo refutarla. Valeria, también sintiendo esa incomodidad quiso ayudar con algún cumplido al apartamento pero sólo logró que todo fuera aún más incomdo, ese cumplido que se siente dicho no porque nace, sino para hacer sentir mejor a quien lo recibe.<br>
+No recuerdo que respondió Andrea, sé que fue muy diplomática ni quizo refutarla. Valeria también sintiendo esa incomodidad quiso ayudar con algún cumplido al apartamento pero sólo logró que todo fuera aún más incómodo, ese cumplido que se siente dicho no porque nace, sino para hacer sentir mejor a quien lo recibe.<br>
 <br>
 Afortunadamente escuchamos el grito del costeño. — ¡Doña Amparo! — Es nuestro turno. Nos paramos y a firmar uno de los días más felices de nuestra vida.<br>
 <br>
@@ -67,7 +67,7 @@ Afortunadamente escuchamos el grito del costeño. — ¡Doña Amparo! — Es nue
 —
 <br>
 <br>
-Ya devuelta, en el carro, le pregunto a Valeria — ¿Qué necesidad tenía Patricia de criticar el baño? — Empezamos a charlar y a recordar la infinidad de momentos en que esto ha pasado. Es un clásico, alguna Patricia siempre aparece por ahí escudada en la verdad para decir algo que consideramos innecesario.<br>
+Ya devuelta en el carro le pregunto a Valeria — ¿Qué necesidad tenía Patricia de criticar el baño? — Empezamos a charlar y a recordar la infinidad de momentos en que esto ha pasado. Es un clásico, alguna Patricia siempre aparece por ahí escudada en la verdad para decir algo que consideramos innecesario.<br>
 <br>
 ¿Por qué es innecesario? ¿Por qué esta mal decir la verdad? Si me preguntan mi opinión ¿sólo puedo decir lo lindo?<br>
 <br>
@@ -75,7 +75,7 @@ No sé si lo hacen de mala fé, creo que no. No sé si es falta de empatía o ex
 <br>
 Han pasado varios meses desde ese día, nunca encontramos la respuesta. Hasta ayer. Recostado en la ventana del avión, leyendo las últimas páginas de Bird by Bird de Anne Lamott.<br>
 <br>
-La misma situación con diferentes personajes. ¿Por qué está mal decir la verdad si él mismo me preguntó quéx| pensaba? En este caso era un estudiante que había criticado el trabajo de su compañero. Agregaba un paso más, retando al profesor. — ¿O me vas a decir que lo que dije no es cierto? —<br> 
+La misma situación con diferentes personajes. ¿Por qué está mal decir la verdad si él mismo me preguntó qué pensaba? En este caso era un estudiante que había criticado el trabajo de su compañero. Agregaba un paso más, retando al profesor. — ¿O me vas a decir que lo que dije no es cierto? —<br> 
 <br>
 <br>
 — Tienes razón. Lo que dijiste es correcto. — Responde el maestro.<br>
