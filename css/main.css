@@ -109,6 +109,30 @@ a {
 /* BLOG STYLES */
 
 .blog-container {
-    max-width: 860px;
+    max-width: 720px;
     margin: 25px;
+    margin: 0 20px 0;
+}
+
+.blog-post-image {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.blog-post-image img {
+    /* max-width: 80%; */
+    max-height: 500px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+/* FOOTER STYLES */
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
 }
