@@ -122,7 +122,7 @@ a {
 }
 
 .blog-post-image img {
-    /* max-width: 80%; */
+    max-width: 80%;
     max-height: 500px;
     object-fit: contain;
     border-radius: 10px;
