@@ -39,11 +39,6 @@ Un salón, muchos cursos. Un profesor, muchos estudiantes. Un mismo espacio, una
 -
 <br>
 <br>
-<div class="blog-post-image">
-    <img src="/images/2024-11-10-viaje-por-la-educacion/escuela-la-palma-2.jpg" alt="Escuela la palma">
-</div>
-<br>
-<br>
 Valeria está fascinada con la educación en Colombia. Ella es profesora, Licenciada en Primera Infancia, es su sueño, vocación, profesión y misión. Pero en el mundo tan vasto de la educación, ¿por qué éste tan particular de la educación rural le generaba esa dinamita? 
 <br>
 <br>
@@ -72,7 +67,7 @@ No lo entendía hasta que me dejó mudo contándome la historia del salón en la
 <br>
 <br>
 <div class="blog-post-image">
-    <img src="/images/2024-11-10-viaje-por-la-educacion/caminando-a-la-escuela.jpg" alt="Caminando a la escuela rural">
+    <img src="/images/2024-11-10-viaje-por-la-educacion/escuela-la-palma-3.jpg" alt="Caminando a la escuela rural">
 </div>
 <br>
 <br>
@@ -83,6 +78,11 @@ Para responder estas preguntas, para saber por dónde empezar y cómo aportar, p
 <br>
 <br>
 -
+<br>
+<br>
+<div class="blog-post-image">
+    <img src="/images/2024-11-10-viaje-por-la-educacion/escuela-la-palma-4.jpg" alt="Escuela la palma">
+</div>
 <br>
 <br>
 Nos cansamos de intentar aprender leyendo, le quitamos las rueditas a la bici y nos subimos a este viaje para descubrir la educación rural.
@@ -101,6 +101,11 @@ Pero para aportar primero hay que aprender. 
 <br>
 <br>
 -
+<br>
+<br>
+<div class="blog-post-image">
+    <img src="/images/2024-11-10-viaje-por-la-educacion/escuela-la-palma-5.jpg" alt="Escuela la palma">
+</div>
 <br>
 <br>
 Les contamos que una noche de abril, recostados en el sofá turquesa de nuestra sala, tomando vino para dejar hablar a la imaginación, decidimos renunciar a nuestra vida en Bogotá para iniciar esta aventura de vivir la educación rural. 
@@ -157,3 +162,5 @@ Saludos desde la Vereda La Palma, en el mágico cañón del río Santo Domingo.
 Juan Felipe y Valeria
 <br>
 25.septiembre.2024
+<br>
+<br>
