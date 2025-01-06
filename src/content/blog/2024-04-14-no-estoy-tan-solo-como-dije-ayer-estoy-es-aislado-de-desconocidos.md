@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "No estoy tan sólo como dije ayer. Estoy es aislado de desconocidos."
 date: 2024-04-14
-slug: "no-estoy-tan-solo-como-dije-ayer-estoy-es-aislado-de-desconocidos"
 excerpt: "Si te aclaro el mensaje te van a dar ganas de cortar desconocidos."
 ---
 

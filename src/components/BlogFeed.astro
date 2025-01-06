@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort((a: CollectionEntry<'blog'>, b: CollectionEntry<'blog'>) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<div class="max-w-4xl mx-auto px-4 py-8">
+  <ul class="space-y-8">
+    {sortedPosts.map((post: CollectionEntry<'blog'>) => (
+      <li class="border-b border-gray-200 pb-6 last:border-b-0">
+        <article>
+          <h3 class="text-xl font-light mb-2 hover:font-medium transition-all duration-200">
+            <a href={`/blog/${post.slug}`} class="text-gray-900 hover:text-gray-900 transition-colors">
+              {post.data.title}
+            </a>
+          </h3>
+          <p class="text-xs text-gray-600 mb-2">
+            {new Date(post.data.date).toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            })} 
+          </p>
+          {post.data.excerpt && <p class="text-gray-700 text-base">{post.data.excerpt}</p>}
+        </article>
+      </li>
+    ))}
+  </ul>
+</div>
+

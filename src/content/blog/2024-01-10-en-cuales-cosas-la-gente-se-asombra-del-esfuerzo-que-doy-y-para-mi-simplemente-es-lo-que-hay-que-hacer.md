@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "¿En qué cosas la gente se asombra de mi esfuerzo y entrega cuando para mí simplemente es lo que hay que hacer?"
 date: 2024-01-10
-slug: "en-cuales-cosas-la-gente-se-asombra-del-esfuerzo-que-doy-y-para-mi-simplemente-es-lo-que-hay-que-hacer"
 excerpt: "A Isa mi cuñada le decimos la triple CUM, porque lleva tres carreras, todas en cum laude. Cómo de preguntarle sobre su esfuerzo terminé preguntándome cuando hago un esfuerzo sobrehumano sin darme cuenta y si debería estar haciendo más de esos."
 ---
 

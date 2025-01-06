@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Este blog va a ser una contradicción tenaz."
 date: 2024-01-18
-slug: "este-blog-va-a-ser-una-contradiccion-tenaz"
 excerpt: "Una advertencia de una vez. Un día voy a compartir una idea. Al siguiente compartiré otra opuesta. Un día compartiré un consejo, al otro día otro que recomienda lo contrario. Está bien. Es más, ese es el objetivo. No aceptes ninguna idea.Acepta la invitación a hacerte más preguntas."
 ---
 

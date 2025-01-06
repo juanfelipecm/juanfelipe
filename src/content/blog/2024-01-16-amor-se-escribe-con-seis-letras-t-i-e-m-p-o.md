@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "AMOR se escribe con seis letras T-I-E-M-P-O."
 date: 2024-01-16
-slug: "amor-se-escribe-con-seis-letras-t-i-e-m-p-o"
 excerpt: "La oí y me pegó duro, por algo me quedó tan grabada. No para replantearme a quien realmente quiero sino para darme cuenta de que no se los estoy demostrando. Para caer en cuenta que amar no es sólo un sentimiento sino una responsabilidad."
 ---
 

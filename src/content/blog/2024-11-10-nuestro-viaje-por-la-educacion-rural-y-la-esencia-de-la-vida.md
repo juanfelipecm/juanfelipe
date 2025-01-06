@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Nuestro viaje por la educación rural (y la esencia de la vida)"
 date: 2024-11-10
-slug: "nuestro-viaje-por-la-educacion-rural-y-la-esencia-de-la-vida"
 excerpt: "Renunciamos a Bogotá. Empecemos a vivir nuestros sueños. Este es nuestro plan por los próximos doce meses."
 ---
 <br>

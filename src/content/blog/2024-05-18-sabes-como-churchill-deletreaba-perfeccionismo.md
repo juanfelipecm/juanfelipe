@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "¿Sabes como Churchill deletreaba Perfeccionismo?"
 date: 2024-05-18
-slug: "sabes-como-churchill-deletreaba-perfeccionismo"
 excerpt: "Nueve letras. P-A-R-Á-L-I-S-I-S."
 ---
 

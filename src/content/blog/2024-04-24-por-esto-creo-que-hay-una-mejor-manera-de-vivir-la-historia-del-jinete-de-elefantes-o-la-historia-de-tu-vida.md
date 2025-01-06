@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Por esto creo que hay una mejor manera de vivir. La historia del jinete de elefantes, o la historia de tu vida."
 date: 2024-04-24
-slug: "por-esto-creo-que-hay-una-mejor-manera-de-vivir-la-historia-del-jinete-de-elefantes-o-la-historia-de-tu-vida"
 excerpt: "Esta es la razón por la que creo que hay una mejor manera de vivir.Esta es la razón de mi búsqueda de la felicidad. De mis morning routines. De mi locura entre los libros. De mis experimentos fallidos.Esta es la historia del jinete de elefantes, dicho de otra forma, la historia de tu vida."
 ---
 

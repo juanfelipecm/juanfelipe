@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "¿Por qué termino siempre en este hueco?"
 date: 2024-04-04
-slug: "por-que-termino-siempre-en-este-hueco"
 excerpt: "Tiene varias rutas para llegar a la oficina, pero siempre toma la misma. La que termina en el hueco.Y Fernando todos los días le grita al parabrisas: ¡Otra vez este maldito hueco!"
 ---
 

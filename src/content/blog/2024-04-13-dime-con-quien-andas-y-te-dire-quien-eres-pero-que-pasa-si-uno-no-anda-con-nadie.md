@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Dime con quien andas y te diré quien eres. ¿Pero qué pasa si uno no anda con nadie? "
 date: 2024-04-13
-slug: "dime-con-quien-andas-y-te-dire-quien-eres-pero-que-pasa-si-uno-no-anda-con-nadie"
 excerpt: "La historia de cómo la soledad me transformó en otra persona."
 ---
 

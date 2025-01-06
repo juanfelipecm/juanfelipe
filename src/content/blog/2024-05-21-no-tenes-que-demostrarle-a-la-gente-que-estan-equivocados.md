@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "No tenés que demostrarle a la gente que están equivocados."
 date: 2024-05-21
-slug: "no-tenes-que-demostrarle-a-la-gente-que-estan-equivocados"
 excerpt: "No tenés qué ganar cada debate. No tenés que participar en todas las conversaciones. No tenés que responder todas las preguntas. No tenés que demostrarle a la gente que están equivocados. No tenés que compartir tu punto de vista. No tenés que dar explicaciones. La paz que me dio leer esto. La paz que me dio empezar a vivirlo."
 ---
 

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Las palabras mágicas para dar feedback"
 date: 2024-01-14
-slug: "las-palabras-magicas-para-dar-feedback"
 excerpt: "Como aprender las palabras que usa Adam Grant para dar feedback me llevó a mi propio juramente del feedback. "
 ---
 

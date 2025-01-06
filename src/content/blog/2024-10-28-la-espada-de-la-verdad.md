@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "La espada de la verdad."
 date: 2024-10-28
-slug: "la-espada-de-la-verdad"
 excerpt: "Perdóname que te lo diga así, pero es que yo siempre digo la verdad."
 ---
 

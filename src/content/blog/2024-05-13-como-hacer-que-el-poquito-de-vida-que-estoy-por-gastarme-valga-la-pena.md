@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "¿Cómo hacer que el poquito de vida que estoy por gastarme valga la pena?"
 date: 2024-05-13
-slug: "como-hacer-que-el-poquito-de-vida-que-estoy-por-gastarme-valga-la-pena"
 excerpt: "¿Qué vale la pena? No sé. ¿Qué no vale la pena? Un poco más claro. ¿Qué no quiero hacer? Eso será suficiente. ¿Será que eso es vivir con propósito?"
 ---
 

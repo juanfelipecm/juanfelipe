@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Providencia y su encanto nos termina cuestionando el MBA."
 date: 2024-05-10
-slug: "providencia-y-su-encanto-nos-termina-cuestionando-el-mba"
 excerpt: "La historia de como la ignorancia de Raúl - el isleño dueño de la posada donde nos hospedamos - es más bien la sabiduría para vivir la vida que me sueño."
 ---
 
