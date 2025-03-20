@@ -17,7 +17,7 @@ const sortedPosts = allPosts.sort((a: CollectionEntry<'blog'>, b: CollectionEntr
             </a>
           </h3>
           <p class="text-xs text-gray-600 mb-2">
-            {new Date(post.data.date).toLocaleDateString('en-US', {
+            {new Date(post.data.date).toLocaleDateString('es-US', {
               year: 'numeric',
               month: 'long',
               day: 'numeric'
