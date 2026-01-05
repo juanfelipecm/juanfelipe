@@ -41,13 +41,15 @@ artImage: "/images/2026-01-04-el-me-pego-primero/ulysses-sirens.jpg"
 <br>
 <p>-</p>
 <br>
-<p>Hoy es válido sentir este tornado de emociones en el corazón. Sentir la alegría de ver un criminal donde tiene que estar, sentir la ilusión de que este sea por fin el inicio de un nuevo capítulo para Venezuela, es compatible con sentir miedo de haber caído en la trampa.</p>
+<p>Hoy es válido sentir este tornado de emociones en el corazón. Sentir la alegría de ver un criminal donde tiene que estar, sentir la ilusión de la libertad para Venezuela, es compatible con sentir miedo de haber caído en la trampa.</p>
 <br>
-<p>Miedo de sentir que la lucha legítima que han intentado tantos Venezolanos, mostrando un coraje sublime para no caer en la trampa durante doce años, hoy sea en vano por la decisión del otro.</p>
+<p>Miedo de sentir que la lucha legítima que han intentado tantos Venezolanos, mostrando un coraje sublime para no caer en la trampa durante doce años, vaya a ser en vano por la decisión del otro.</p>
 <br>
-<p>Miedo a sentir que ésta sea otra versión del mismo cuento que vivimos en Colombia cuando creímos que permitir la injusticia de dejar a unos romper las reglas para acabar con los otros nos iba a llevar a un país más justo. Hoy tenemos heridas que parecen imposibles de sanar.</p>
+<p>Miedo a sentir que ésta sea otra versión del mismo cuento que vivimos en Colombia cuando creímos que permitir la injusticia de dejar a unos romper las reglas para acabar con los otros, nos iba a llevar a un país más justo. Hoy tenemos heridas que parecen imposibles de sanar.</p>
 <br>
-<p>Hoy es compatible sentir no sólo ilusión con preocupación, sino además con impotencia. La que inevitablemente aparece al criticar que se rompieron las reglas sin poder ofrecer alternativas diferentes a la que ofreció Luther King en Montgomery.</p>
+<p>¿Y entonces dejar al dictador hasta quién sabe cuando? ¿Qué pasa cuando las reglas parecen permitir tanta injusticia? ¿No fue el acto de Rosa Parks una violación de las reglas? Ojalá éste caso sea uno como el de ella.</p> 
+<br>
+<p>Hoy es compatible sentir ilusión con preocupación, y además con impotencia. La que inevitablemente aparece al criticar que se rompieron las reglas sin poder ofrecer alternativas diferentes a la que ofreció Luther King en Montgomery.</p>
 <br>
 <p><span class="italic">¿Cuánto falta? Falta poco.</span></p>
 <p><span class="italic"> Porque no hay mentira que viva para siempre.</span></p>
