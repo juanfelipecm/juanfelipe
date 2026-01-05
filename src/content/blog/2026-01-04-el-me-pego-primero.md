@@ -2,6 +2,7 @@
 title: "Él me pegó primero"
 date: 2026-01-04
 excerpt: "Lamentablemente en la vida, sólo los malos pueden romper las reglas."
+artImage: "/images/2026-01-04-el-me-pego-primero/ulysses-sirens.jpg"
 ---
 
 <p>No había persona más desesperante que mi hermano cuando chiquito. Mamón, metido, pelión y bravo, muy bravo. <span class="italic">Te enojai por todo, te enojai por todo</span>, dicen las estrofas de la canción que un día le dediqué y por la que recibí una buena cantidad de patadas en agradecimiento. Tampoco había persona más intolerante y celosa que yo. Honestamente, no era más que la relación de un par de hermanos con siete años de diferencia. Mi hermano, desesperado por atención, empezaba con chistesitos, y empujoncitos, y bobaditas que rápidamente escalaban a puños que aún más rápidamente escalaban a estar yo devolviéndole atenciones aprovechándome de varios centímetros y kilos de ventaja.</p>
@@ -37,6 +38,8 @@ excerpt: "Lamentablemente en la vida, sólo los malos pueden romper las reglas."
 <p>Martin Luther King no sabía cuánto faltaba aquella tarde hablando sobre el atril en las escaleras del capitolio de Montgomery, pero sabía que el día en que respondieran con violencia la causa estaría perdida. La violencia era la trampa que ponían los blancos cada vez más tentadora, más grande y más cerquita. Necesitaban que cayeran, era la excusa que buscaban para justificar que estos no eran humanos civilizados sino salvajes violentos.</p>
 <br>
 <p>No podían caer en la trampa.</p>
+<br>
+<p>-</p>
 <br>
 <p>Hoy es válido sentir este tornado de emociones en el corazón. Sentir la alegría de ver un criminal donde tiene que estar, sentir la ilusión de que este sea por fin el inicio de un nuevo capítulo para Venezuela, es compatible con sentir miedo de haber caído en la trampa.</p>
 <br>

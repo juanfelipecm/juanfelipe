@@ -33,6 +33,15 @@ const { Content } = await post.render();
     <div class="prose prose-lg max-w-none">
       <Content />
     </div>
+    {post.data.artImage && (
+      <figure class="my-16 relative left-1/2 -translate-x-1/2 w-[90vw] max-w-4xl">
+        <img 
+          src={post.data.artImage} 
+          alt="Art" 
+          class="w-full h-auto object-contain rounded-lg shadow-lg"
+        />
+      </figure>
+    )}
     <div class="flex flex-col gap-2 mt-20">
       <h5><span class="font-bold">Compártelo,</span> tu sabrás a quién le servirá leer algo así. Mándaselo a ese amigo, a tu pareja, a tu mamá.</h5>
       <SocialShare
