@@ -40,6 +40,12 @@ const { Content } = await post.render();
           alt="Art" 
           class="w-full h-auto object-contain rounded-lg shadow-lg"
         />
+        {post.data.artCaption && (
+          <figcaption
+            class="mt-3 text-center text-sm text-gray-600"
+            set:html={post.data.artCaption}
+          />
+        )}
       </figure>
     )}
     <div class="flex flex-col gap-2 mt-20">
