@@ -11,7 +11,7 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 ---
 
-<Layout title={post.data.title}>
+<Layout title={post.data.title} description={post.data.excerpt} image={post.data.artImage} type="article">
   <article class="max-w-xl mx-auto px-4 py-8">
     <header class="flex flex-col gap-4 mb-8">
       <h1 class="text-3xl font-light mb-4">
